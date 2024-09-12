@@ -158,7 +158,7 @@ const Home = () => {
           </div>
 
           <div>
-            <p className='text-lg'>Help & Support:  hello@neupay.co</p>
+            <p className='text-lg'>Help & Support:  <span className='font-semibold'>hello@neupay.co</span></p>
           </div>
 
 
@@ -169,11 +169,6 @@ const Home = () => {
               <p><FaFacebookSquare /></p>
               <p><IoLogoInstagram /></p>
             </div>
-            <p className='lg:text-right'>
-              789 Trans Amadi, Opp . Amadi Gardens Plot 197 <br />
-              Port-Harcourt, Rivers State <br /> 
-              [This is just a placeholder for Neupay’s Physical Address]
-            </p>
           </div>
         </div>
 
